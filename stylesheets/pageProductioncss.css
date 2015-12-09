@@ -1,2 +1,4 @@
 /* CSS Document */
 @charset:utf-8;
+#showbar{padding:20px 30px;text-align:center;}
+#showbar div{height:100px;width:100px;float:left;border-radius:50%;background:#9999FF;text-align:center;line-height:100px;margin:20px 5px 0;color:#fff;cursor:pointer;}
